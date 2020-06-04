@@ -1,0 +1,6 @@
+C:\Users\hhleb\OneDrive - НИУ Высшая школа экономики\Программирование\Лабораторные работы\Лабы\Manufactures\bin\Debug\Manufactures.dll
+C:\Users\hhleb\OneDrive - НИУ Высшая школа экономики\Программирование\Лабораторные работы\Лабы\Manufactures\bin\Debug\Manufactures.pdb
+C:\Users\hhleb\OneDrive - НИУ Высшая школа экономики\Программирование\Лабораторные работы\Лабы\Manufactures\obj\Debug\Manufactures.csprojAssemblyReference.cache
+C:\Users\hhleb\OneDrive - НИУ Высшая школа экономики\Программирование\Лабораторные работы\Лабы\Manufactures\obj\Debug\Manufactures.csproj.CoreCompileInputs.cache
+C:\Users\hhleb\OneDrive - НИУ Высшая школа экономики\Программирование\Лабораторные работы\Лабы\Manufactures\obj\Debug\Manufactures.dll
+C:\Users\hhleb\OneDrive - НИУ Высшая школа экономики\Программирование\Лабораторные работы\Лабы\Manufactures\obj\Debug\Manufactures.pdb

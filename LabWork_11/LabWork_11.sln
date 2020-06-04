@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabWork_11", "LabWork_11.csproj", "{BE958991-EB41-4EB6-BD32-52C3B424E105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manufactures", "..\Manufactures\Manufactures.csproj", "{CFCFD806-2C8A-49E2-BF4E-DF28E3E6111E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE958991-EB41-4EB6-BD32-52C3B424E105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE958991-EB41-4EB6-BD32-52C3B424E105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE958991-EB41-4EB6-BD32-52C3B424E105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE958991-EB41-4EB6-BD32-52C3B424E105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFCFD806-2C8A-49E2-BF4E-DF28E3E6111E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFCFD806-2C8A-49E2-BF4E-DF28E3E6111E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFCFD806-2C8A-49E2-BF4E-DF28E3E6111E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFCFD806-2C8A-49E2-BF4E-DF28E3E6111E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDE26210-1AD4-4C86-BF48-495A8F5C3B36}
+	EndGlobalSection
+EndGlobal
